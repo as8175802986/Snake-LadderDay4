@@ -14,8 +14,9 @@ namespace SnakeNladder
         public const int SNAKE = 2;
         static void Main(string[] args)
         {
-            Console.WriteLine("**Welcome to the game of snake and ladder");
+             Console.WriteLine("**Welcome to the game of snake and ladder");
             Console.WriteLine();
+
 
             Console.WriteLine("singlr player mode: Starting Position 0");
             Console.WriteLine("The Game Begins");
@@ -46,7 +47,11 @@ namespace SnakeNladder
 
             
 
+            Random die = new Random();
+            int dice = die.Next(1, 7);
+            Console.WriteLine("The number on the dice roll is:" + dice);
         }
 
     }
 }
+
