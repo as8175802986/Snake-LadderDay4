@@ -12,10 +12,12 @@ namespace SnakeNladder
         {
              Console.WriteLine("**Welcome to the game of snake and ladder");
             Console.WriteLine();
+
             //as per UC1
             Console.WriteLine("singlr player mode: Starting Position 0");
             Console.WriteLine("The Game Begins");
             int Position = 0;
+
 
             Random die = new Random();
             int dice = die.Next(1, 7);
