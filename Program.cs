@@ -14,10 +14,10 @@ namespace SnakeNladder
             Console.WriteLine();
 
             //as per UC1
-            //Console.WriteLine("singlr player mode: Starting Position 0");
-            //Console.WriteLine("The Game Begins");
-            //int Position = 0;
-            //int dice;
+            Console.WriteLine("singlr player mode: Starting Position 0");
+            Console.WriteLine("The Game Begins");
+            int Position = 0;
+            int dice;
 
 
         }
