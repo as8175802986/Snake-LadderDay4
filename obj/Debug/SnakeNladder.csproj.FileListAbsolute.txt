@@ -1,0 +1,7 @@
+C:\Users\DELL\source\Repos\SnakeNladder\bin\Debug\SnakeNladder.exe.config
+C:\Users\DELL\source\Repos\SnakeNladder\bin\Debug\SnakeNladder.exe
+C:\Users\DELL\source\Repos\SnakeNladder\bin\Debug\SnakeNladder.pdb
+C:\Users\DELL\source\Repos\SnakeNladder\obj\Debug\SnakeNladder.csproj.AssemblyReference.cache
+C:\Users\DELL\source\Repos\SnakeNladder\obj\Debug\SnakeNladder.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\Repos\SnakeNladder\obj\Debug\SnakeNladder.exe
+C:\Users\DELL\source\Repos\SnakeNladder\obj\Debug\SnakeNladder.pdb
