@@ -8,7 +8,7 @@ namespace SnakeNladder
 {
     class Program
     {
-       //Constants 
+      //Constants 
         public const int NO_PLAY = 0;
         public const int LADDER = 1;
         public const int SNAKE = 2;
@@ -50,9 +50,12 @@ namespace SnakeNladder
                     Position = 0;
                 }
             }
-            
+            Console.ReadLine();
 
 
         }
+
+
     }
 }
+
